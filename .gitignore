@@ -1,0 +1,6 @@
+# Project exclude paths
+/scw_com/target/
+/scw_parent/scw_order/target/
+/scw_parent/scw_project/target/
+/scw_parent/scw_user/target/
+/scw_register/target/
